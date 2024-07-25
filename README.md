@@ -28,3 +28,10 @@ Displays the leaderboard showing player names, their scores, and remaining hints
 
 Displays the main menu and handles user choices to play the game, view the leaderboard, or exit the application.
 
+### How The Gameplay Works And Input Format 
+Start the Game: Choose the option to play from the main menu.
+Enter Your Name: Provide your name for leaderboard tracking.
+Choose Difficulty: Select a difficulty level (1: Easy, 2: Medium, 3: Hard).
+Guess Numbers: Try to guess the randomly generated number within the given number of trials.
+Use Hints: Request hints if you need help; hints indicate how close your guess is to the target number.
+View Leaderboard: Check your score and see how you stack up against other players.
